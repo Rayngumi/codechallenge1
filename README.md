@@ -1,4 +1,4 @@
-#Project Description    
+## Project Description
 
 ## Grade Generator
     Write a function that prompts the user to input student marks. The 
